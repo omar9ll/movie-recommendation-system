@@ -1,0 +1,101 @@
+movie_id,title,director,year,genres,avg_rating,num_ratings
+1,The Shawshank Redemption,Frank Darabont,1994,Drama,4.9,2847
+2,The Godfather,Francis Ford Coppola,1972,Crime;Drama,4.8,2156
+3,The Dark Knight,Christopher Nolan,2008,Action;Crime;Drama,4.7,3421
+4,Pulp Fiction,Quentin Tarantino,1994,Crime;Drama,4.6,2698
+5,Forrest Gump,Robert Zemeckis,1994,Drama;Romance,4.5,2134
+6,Inception,Christopher Nolan,2010,Action;Sci-Fi;Thriller,4.7,3156
+7,The Matrix,The Wachowskis,1999,Action;Sci-Fi,4.6,2876
+8,Goodfellas,Martin Scorsese,1990,Biography;Crime;Drama,4.7,1543
+9,The Silence of the Lambs,Jonathan Demme,1991,Crime;Drama;Thriller,4.6,1876
+10,Saving Private Ryan,Steven Spielberg,1998,Drama;War,4.7,1654
+11,The Lord of the Rings: The Return of the King,Peter Jackson,2003,Adventure;Drama;Fantasy,4.8,2234
+12,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,Adventure;Drama;Fantasy,4.7,2456
+13,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,1980,Action;Adventure;Fantasy,4.7,1876
+14,Schindler's List,Steven Spielberg,1993,Biography;Drama;History,4.8,1432
+15,Fight Club,David Fincher,1999,Drama,4.6,2567
+16,The Lord of the Rings: The Two Towers,Peter Jackson,2002,Adventure;Drama;Fantasy,4.6,2098
+17,Interstellar,Christopher Nolan,2014,Adventure;Drama;Sci-Fi,4.5,2987
+18,Parasite,Bong Joon Ho,2019,Drama;Thriller,4.6,1876
+19,Gladiator,Ridley Scott,2000,Action;Adventure;Drama,4.5,1765
+20,The Prestige,Christopher Nolan,2006,Drama;Mystery;Sci-Fi,4.5,1432
+21,The Departed,Martin Scorsese,2006,Crime;Drama;Thriller,4.6,1654
+22,The Green Mile,Frank Darabont,1999,Crime;Drama;Fantasy,4.7,1234
+23,The Lion King,Roger Allers,1994,Animation;Adventure;Drama,4.6,1987
+24,Back to the Future,Robert Zemeckis,1985,Adventure;Comedy;Sci-Fi,4.6,2134
+25,The Usual Suspects,Bryan Singer,1995,Crime;Drama;Mystery,4.6,1876
+26,Whiplash,Damien Chazelle,2014,Drama;Music,4.6,1543
+27,The Intouchables,Olivier Nakache,2011,Biography;Comedy;Drama,4.6,987
+28,Spirited Away,Hayao Miyazaki,2001,Animation;Adventure;Family,4.7,1456
+29,City of God,Fernando Meirelles,2002,Crime;Drama,4.6,876
+30,Avengers: Endgame,Anthony Russo,2019,Action;Adventure;Drama,4.4,3876
+31,Once Upon a Time in the West,Sergio Leone,1968,Western,4.7,543
+32,Django Unchained,Quentin Tarantino,2012,Drama;Western,4.5,1987
+33,The Shining,Stanley Kubrick,1980,Drama;Horror,4.5,1654
+34,WALL-E,Andrew Stanton,2008,Animation;Adventure;Family,4.6,1432
+35,Joker,Todd Phillips,2019,Crime;Drama;Thriller,4.3,2765
+36,Avengers: Infinity War,Anthony Russo,2018,Action;Adventure;Sci-Fi,4.4,3234
+37,The Dark Knight Rises,Christopher Nolan,2012,Action;Thriller,4.4,2654
+38,Coco,Lee Unkrich,2017,Animation;Adventure;Family,4.6,1345
+39,Toy Story,John Lasseter,1995,Animation;Adventure;Comedy,4.5,1876
+40,Braveheart,Mel Gibson,1995,Biography;Drama;History,4.5,1543
+41,Inglourious Basterds,Quentin Tarantino,2009,Adventure;Drama;War,4.5,1765
+42,The Grand Budapest Hotel,Wes Anderson,2014,Adventure;Comedy;Crime,4.4,1234
+43,Requiem for a Dream,Darren Aronofsky,2000,Drama,4.4,987
+44,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,Drama;Romance;Sci-Fi,4.5,1123
+45,Toy Story 3,Lee Unkrich,2010,Animation;Adventure;Comedy,4.5,1654
+46,The Hunt,Thomas Vinterberg,2012,Drama,4.5,654
+47,Good Will Hunting,Gus Van Sant,1997,Drama;Romance,4.5,1432
+48,Reservoir Dogs,Quentin Tarantino,1992,Crime;Thriller,4.4,1234
+49,2001: A Space Odyssey,Stanley Kubrick,1968,Adventure;Sci-Fi,4.5,876
+50,A Beautiful Mind,Ron Howard,2001,Biography;Drama,4.4,1345
+51,Mad Max: Fury Road,George Miller,2015,Action;Adventure;Sci-Fi,4.3,2134
+52,The Truman Show,Peter Weir,1998,Comedy;Drama;Sci-Fi,4.4,1456
+53,Oldboy,Park Chan-wook,2003,Action;Drama;Mystery,4.5,765
+54,The Sixth Sense,M. Night Shyamalan,1999,Drama;Mystery;Thriller,4.4,1654
+55,Amélie,Jean-Pierre Jeunet,2001,Comedy;Romance,4.5,1087
+56,Snatch,Guy Ritchie,2000,Comedy;Crime,4.3,1234
+57,Memento,Christopher Nolan,2000,Mystery;Thriller,4.5,1345
+58,Indiana Jones and the Last Crusade,Steven Spielberg,1989,Action;Adventure,4.4,1432
+59,3 Idiots,Rajkumar Hirani,2009,Comedy;Drama,4.5,876
+60,L.A. Confidential,Curtis Hanson,1997,Crime;Drama;Mystery,4.4,765
+61,Citizen Kane,Orson Welles,1941,Drama;Mystery,4.6,543
+62,Taxi Driver,Martin Scorsese,1976,Crime;Drama,4.5,987
+63,The Pianist,Roman Polanski,2002,Biography;Drama;Music,4.6,876
+64,Apocalypse Now,Francis Ford Coppola,1979,Drama;Mystery;War,4.5,1098
+65,Vertigo,Alfred Hitchcock,1958,Mystery;Romance;Thriller,4.5,678
+66,The Wolf of Wall Street,Martin Scorsese,2013,Biography;Crime;Drama,4.3,2345
+67,Raging Bull,Martin Scorsese,1980,Biography;Drama;Sport,4.5,654
+68,Die Hard,John McTiernan,1988,Action;Thriller,4.4,1765
+69,Blade Runner,Ridley Scott,1982,Action;Sci-Fi;Thriller,4.4,1234
+70,The Sting,George Roy Hill,1973,Comedy;Crime;Drama,4.4,543
+71,Fargo,Joel Coen,1996,Crime;Drama;Thriller,4.4,987
+72,No Country for Old Men,Joel Coen,2007,Crime;Drama;Thriller,4.4,1234
+73,Kill Bill: Vol. 1,Quentin Tarantino,2003,Action;Crime;Thriller,4.3,1543
+74,There Will Be Blood,Paul Thomas Anderson,2007,Drama,4.5,876
+75,Shutter Island,Martin Scorsese,2010,Mystery;Thriller,4.3,1876
+76,Gone Girl,David Fincher,2014,Drama;Mystery;Thriller,4.3,1654
+77,The Big Lebowski,Joel Coen,1998,Comedy;Crime,4.3,1345
+78,Into the Wild,Sean Penn,2007,Adventure;Biography;Drama,4.3,987
+79,The Secret in Their Eyes,Juan José Campanella,2009,Drama;Mystery;Romance,4.4,432
+80,Prisoners,Denis Villeneuve,2013,Crime;Drama;Mystery,4.3,1234
+81,The Breakfast Club,John Hughes,1985,Comedy;Drama,4.2,1098
+82,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,2004,Adventure;Family;Fantasy,4.3,2134
+83,The Wizard of Oz,Victor Fleming,1939,Adventure;Family;Fantasy,4.4,876
+84,Jaws,Steven Spielberg,1975,Adventure;Mystery;Thriller,4.3,1234
+85,Singin' in the Rain,Stanley Donen,1952,Comedy;Musical;Romance,4.5,543
+86,Jurassic Park,Steven Spielberg,1993,Action;Adventure;Sci-Fi,4.2,2345
+87,Groundhog Day,Harold Ramis,1993,Comedy;Fantasy;Romance,4.3,1432
+88,Spider-Man: Into the Spider-Verse,Bob Persichetti,2018,Animation;Action;Adventure,4.4,1876
+89,12 Years a Slave,Steve McQueen,2013,Biography;Drama;History,4.3,987
+90,Casablanca,Michael Curtiz,1942,Drama;Romance;War,4.5,765
+91,The Terminator,James Cameron,1984,Action;Sci-Fi,4.3,1543
+92,Stand by Me,Rob Reiner,1986,Adventure;Drama,4.3,876
+93,The Princess Bride,Rob Reiner,1987,Adventure;Family;Fantasy,4.3,1234
+94,How to Train Your Dragon,Dean DeBlois,2010,Animation;Action;Adventure,4.3,1654
+95,Monty Python and the Holy Grail,Terry Gilliam,1975,Adventure;Comedy;Fantasy,4.2,1345
+96,The Thing,John Carpenter,1982,Horror;Mystery;Sci-Fi,4.2,876
+97,Alien,Ridley Scott,1979,Horror;Sci-Fi,4.4,1432
+98,The Incredibles,Brad Bird,2004,Animation;Action;Adventure,4.3,1876
+99,Up,Pete Docter,2009,Animation;Adventure;Comedy,4.3,1765
+100,Ratatouille,Brad Bird,2007,Animation;Comedy;Family,4.2,1543
